@@ -1,8 +1,10 @@
 ## 数字媒体内容综合设计与实验
 
 ### 音频采集与处理
-- [实验报告](https://github.com/MashiroSaikou/multimedia/exp1.html)
-- 导出音频
+- [实验报告](https://github.com/MashiroSaikou/multimedia/exp1/exp1.html)
+<audio id="导出音频" controls="" preload="none">
+    <soure id="mp3" src="https://github.com/MashiroSaikou/multimedia/exp1/导出音频mp3">
+      </audio>
 
 ### 图像处理
 - 实验报告
