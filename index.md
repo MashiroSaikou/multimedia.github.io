@@ -3,7 +3,7 @@
 ### 音频采集与处理
 - [实验报告](https://github.com/MashiroSaikou/multimedia/exp1/exp1.html)
 <audio id="导出音频" controls="" preload="none">
-    <soure id="mp3" src="https://github.com/MashiroSaikou/multimedia/exp1/导出音频mp3">
+    <soure id="mp3" src="https://github.com/MashiroSaikou/multimedia/exp1/导出内容.mp3">
       </audio>
 
 ### 图像处理
